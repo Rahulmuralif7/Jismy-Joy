@@ -1,2 +1,2 @@
 def printer():
-    print("hiii")
+    print("bye")
